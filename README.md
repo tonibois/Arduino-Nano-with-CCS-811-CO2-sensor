@@ -22,6 +22,14 @@ CO2 sensor wired to Arduino Nano that outputs CO2 concentration values in serial
 # Required Libraries 
 Adafruit_CCS811
 
+# Sketch
+
+![alt text](https://github.com/tonibois/Arduino-Nano-with-CCS-811-CO2-sensor/sketch.png)
+
+# Real circuit
+
+
+
 # Acknowledgements
 Thanks to mighelangelcasanova for sharing initial code:
 
