@@ -13,9 +13,10 @@ CO^2 sensor wired to Arduino Nano that outputs CO2 concentration values in seria
 
 ## Required Material 
 
+<center>
 1.CO2 sensor (CCS-811)
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpCsr3m4kD-yAsh7RNSmo15HEv6KgYtPxiOA&usqp=CAU)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpCsr3m4kD-yAsh7RNSmo15HEv6KgYtPxiOA&usqp=CAU){width=20%}
 
 2. Arduino Nano
 
@@ -23,15 +24,16 @@ CO^2 sensor wired to Arduino Nano that outputs CO2 concentration values in seria
 
 3. Breadboard
 
-![alt text](https://cdn.sparkfun.com//assets/parts/8/5/0/3/12002-Breadboard_-_Self-Adhesive__White_-01.jpg){ width=20% }
+![](https://cdn.sparkfun.com//assets/parts/8/5/0/3/12002-Breadboard_-_Self-Adhesive__White_-01.jpg){width=20%}
 
 4. Buzzer
 
-![alt text](https://www.pcboard.ca/image/cache/catalog/products/buzzers/piezo-buzzer/piezo-buzzer-01-500x500.jpg){ width=20% }
+![](https://www.pcboard.ca/image/cache/catalog/products/buzzers/piezo-buzzer/piezo-buzzer-01-500x500.jpg){width=20%}
 
 5. RGB LED
-
-![alt text](https://cdn.sparkfun.com//assets/parts/6/5/5/7/11120-Diffused_LED_-_RGB_10mm-01.jpg){ width=20% }
+6. 
+![](https://cdn.sparkfun.com//assets/parts/6/5/5/7/11120-Diffused_LED_-_RGB_10mm-01.jpg){width=20%}
+<\center>
 
 6. Computer with Arduino IDE installed 
 7. Cables
