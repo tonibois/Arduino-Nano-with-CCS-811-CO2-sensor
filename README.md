@@ -19,19 +19,19 @@ CO^2 sensor wired to Arduino Nano that outputs CO2 concentration values in seria
 
 2. Arduino Nano
 
-![alt text](https://www.electan.com/images/nano.jpg)
+![alt text](https://www.electan.com/images/nano.jpg){width=20%}
 
 3. Breadboard
 
-![alt text](https://cdn.sparkfun.com//assets/parts/8/5/0/3/12002-Breadboard_-_Self-Adhesive__White_-01.jpg)
+![alt text](https://cdn.sparkfun.com//assets/parts/8/5/0/3/12002-Breadboard_-_Self-Adhesive__White_-01.jpg){ width=20% }
 
 4. Buzzer
 
-![alt text](https://www.pcboard.ca/image/cache/catalog/products/buzzers/piezo-buzzer/piezo-buzzer-01-500x500.jpg)
+![alt text](https://www.pcboard.ca/image/cache/catalog/products/buzzers/piezo-buzzer/piezo-buzzer-01-500x500.jpg){ width=20% }
 
 5. RGB LED
 
-![alt text](https://cdn.sparkfun.com//assets/parts/6/5/5/7/11120-Diffused_LED_-_RGB_10mm-01.jpg)
+![alt text](https://cdn.sparkfun.com//assets/parts/6/5/5/7/11120-Diffused_LED_-_RGB_10mm-01.jpg){ width=20% }
 
 6. Computer with Arduino IDE installed 
 7. Cables
