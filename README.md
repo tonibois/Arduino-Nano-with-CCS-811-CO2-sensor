@@ -15,19 +15,19 @@ CO^2 sensor wired to Arduino Nano that outputs CO2 concentration values in seria
 
 <center>
 1.CO2 sensor (CCS-811)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpCsr3m4kD-yAsh7RNSmo15HEv6KgYtPxiOA&usqp=CAU" width="300" height="300" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpCsr3m4kD-yAsh7RNSmo15HEv6KgYtPxiOA&usqp=CAU" />
 
 2. Arduino Nano
 <img src="https://www.electan.com/images/nano.jpg" width="300" height="300" />
 
 3. Breadboard
-<img src="https://cdn.sparkfun.com//assets/parts/8/5/0/3/12002-Breadboard_-_Self-Adhesive__White_-01.jpg" width="300" height="300" />
+<img src="https://cdn.sparkfun.com//assets/parts/8/5/0/3/12002-Breadboard_-_Self-Adhesive__White_-01.jpg" width="150" height="150" />
 
 4. Buzzer
-<img src="https://www.pcboard.ca/image/cache/catalog/products/buzzers/piezo-buzzer/piezo-buzzer-01-500x500.jpg" width="300" height="300" />
+<img src="https://www.pcboard.ca/image/cache/catalog/products/buzzers/piezo-buzzer/piezo-buzzer-01-500x500.jpg" width="150" height="150" />
 
 5. RGB LED
-<img src="https://cdn.sparkfun.com//assets/parts/6/5/5/7/11120-Diffused_LED_-_RGB_10mm-01.jpg" width="300" height="300" />
+<img src="https://cdn.sparkfun.com//assets/parts/6/5/5/7/11120-Diffused_LED_-_RGB_10mm-01.jpg" width="150" height="150" />
 
 
 6. Computer with Arduino IDE installed 
