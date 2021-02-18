@@ -19,8 +19,7 @@ CO^2 sensor wired to Arduino Nano that outputs CO2 concentration values in seria
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpCsr3m4kD-yAsh7RNSmo15HEv6KgYtPxiOA&usqp=CAU | width=100)
 
 2. Arduino Nano
-<img src="https://www.electan.com/images/nano.jpg" width="200" height="400" />
-![alt text](https://www.electan.com/images/nano.jpg)
+<img src="https://www.electan.com/images/nano.jpg" width="400" height="400" />
 
 3. Breadboard
 
