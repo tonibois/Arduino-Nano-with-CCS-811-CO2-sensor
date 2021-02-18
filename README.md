@@ -28,10 +28,10 @@ Adafruit_CCS811
 
 # Real circuit
 
-![alt text](https://github.com/tonibois/Arduino-Nano-with-CCS-811-CO2-sensor/blob/main/Sketch.png)
-![alt text](https://github.com/tonibois/Arduino-Nano-with-CCS-811-CO2-sensor/blob/main/Sketch.png)
-![alt text](https://github.com/tonibois/Arduino-Nano-with-CCS-811-CO2-sensor/blob/main/Sketch.png)
-![alt text](https://github.com/tonibois/Arduino-Nano-with-CCS-811-CO2-sensor/blob/main/Sketch.png)
+![alt text](https://github.com/tonibois/Arduino-Nano-with-CCS-811-CO2-sensor/blob/main/IMG_20210218_011855_703.jpg)
+![alt text](https://github.com/tonibois/Arduino-Nano-with-CCS-811-CO2-sensor/blob/main/IMG_20210218_011902_909.jpg)
+![alt text](https://github.com/tonibois/Arduino-Nano-with-CCS-811-CO2-sensor/blob/main/IMG_20210218_011914_482.jpg)
+![alt text](https://github.com/tonibois/Arduino-Nano-with-CCS-811-CO2-sensor/blob/main/IMG_20210218_011920_044.jpg)
 
 
 # Acknowledgements
