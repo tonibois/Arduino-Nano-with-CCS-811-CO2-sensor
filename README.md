@@ -1,6 +1,6 @@
 # Arduino-Nano-with-CCS-811-CO2-sensor
 
-CO^2 sensor wired to Arduino Nano that outputs CO2 concentration values in serial monitor and plotter of arduino. Also a buzzer sounds when high level concentrations are detected and an RGB light changes its colour when it is below some concentration.
+CO2 sensor wired to Arduino Nano that outputs CO2 concentration values in serial monitor and plotter of arduino. Also a buzzer sounds when high level concentrations are detected and an RGB light changes its colour when it is below some concentration.
 
 + CO2 sensor (CCS811)
 + Buzzer sounds when CO2 concentration is bigger than 800 
